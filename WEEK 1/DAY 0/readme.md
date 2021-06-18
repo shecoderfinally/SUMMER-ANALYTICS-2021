@@ -5,8 +5,10 @@
 
 ## Set up your environment:
 <br>
--- <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%201">TASK 1</a>
+<ul>
+ <li> <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%201">TASK 1</a> <li>
 <br>
-- <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%202">TASK 2</a>
+ <li> <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%202">TASK 2</a> <li>
 <br>
-- <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%203">TASK 3</a>
+ <li> <a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%200/TASK%203">TASK 3</a> <li>
+</ul>
