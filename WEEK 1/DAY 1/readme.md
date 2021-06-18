@@ -3,3 +3,5 @@
 Welcome to Summer Analytics 2021.
 We'll start this amazing journey by peeking into basics of Python.
 </p>
+
+<a href="https://github.com/shecoderfinally/SUMMER-ANALYTICS-2021/blob/main/WEEK%201/DAY%201/TASK%201">TAKS 1</a>
